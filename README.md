@@ -1,8 +1,8 @@
-# Foxytoux Installer
+# Foxytoux Installer (Please use [QEMU-freeroot](https://github.com/BlackCatOfficialytb/QEMU-freeroot) instead of this)
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
+This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot. (archived)
 
 ## Prerequisites
 
